@@ -1,22 +1,22 @@
-**Ohayou** günaydın
-**Ohayou Gozaimasu** günaydın (kibar)
-**Oyasumi (Nasai)** iyi geceler
-**Konnichiwa** merhaba
-**Konbanwa** iyi akşamlar
-**Youkoso** hoş geldin
-**Sayounara** görüşürüz
-**Arigatou** teşekkür ederim
-**Arigatou Gozaimasu** teşekkür ederim (kibar)
-**Sumimasen** affedersiniz,  özür dilerim
-**Iie** hayır, önemli değil
-**Itte kimasu** ben gidiyorum 
-**Itterasshai** görüşürüz
-**Tadaima** eve geldim
-**Okaeri (Nasai)** eve hoşgeldin
-**Itadakimasu** yemek için teşekkürler 
-**Gochisousama (Deshita)** yemek için teşekkürler
-**Hajimemashite** tanıştığımıza memnun oldum
-**Yoroshiku Onegai Shimasu** tanıştığımıza memnun oldum 
++ **Ohayou** günaydın
++ **Ohayou Gozaimasu** günaydın (kibar)
++ **Oyasumi (Nasai)** iyi geceler
++ **Konnichiwa** merhaba
++ **Konbanwa** iyi akşamlar
++ **Youkoso** hoş geldin
++ **Sayounara** görüşürüz
++ **Arigatou** teşekkür ederim
++ **Arigatou Gozaimasu** teşekkür ederim (kibar)
++ **Sumimasen** affedersiniz,  özür dilerim
++ **Iie** hayır, önemli değil
++ **Itte kimasu** ben gidiyorum 
++ **Itterasshai** görüşürüz
++ **Tadaima** eve geldim
++ **Okaeri (Nasai)** eve hoşgeldin
++ **Itadakimasu** yemek için teşekkürler 
++ **Gochisousama (Deshita)** yemek için teşekkürler
++ **Hajimemashite** tanıştığımıza memnun oldum
++ **Yoroshiku Onegai Shimasu** tanıştığımıza memnun oldum 
 
 ### Ohayou ve Ohayou Gozaimasu 
 Japonca'da kelimeler samimi ve kibar olarak ayrılabilir. Samimi kelimeleri yakın arkadaşlarımız, aile üyelerimiz vb. ile kullanırken, kibar kelimeleri büyüklerimiz, öğretmenimiz, tanımadığımız kişiler için kullanabiliriz. 
