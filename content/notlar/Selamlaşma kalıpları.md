@@ -22,7 +22,7 @@
 Japonca'da kelimeler samimi ve kibar olarak ayrılabilir. Samimi kelimeleri yakın arkadaşlarımız, aile üyelerimiz vb. ile kullanırken, kibar kelimeleri büyüklerimiz, öğretmenimiz, tanımadığımız kişiler için kullanabiliriz. 
 
 ### Sumimasen ve Iie
-**Sumimasen** kelimesi kibarlık ve saygı gösterir. Örnek olarak yolda yürürken birine çarptığımızda kullanabiliriz. **Iie** kelimesi ana olarak hayır anlamına gelir ve sıkıntı yok, önemli değil anlamında kullanılabilir. Çarptığımız kişi bize **Iie** diyebilir. 
+**Sumimasen** kelimesi kibarlık ve saygı gösterir. Örnek olarak yolda yürürken birine çarptığımızda kullanabiliriz. **Iie** kelimesi ana olarak hayır anlamına gelir ve sıkıntı yok, önemli değil anlamında kullanılabilir. Çarptığımız kişi bize **Iie** diyebilir.
 **Sumimasen** kelimesini dikkat çekmek amaçlı da kullanabiliriz. Örnek olarak garsonu çağırmak için kullanabiliriz. 
 
 ### Evden çıkarken
@@ -30,8 +30,8 @@ Evden çıkarken çıkan kişi **Itte kimasu** ifadesini kullanır. Gidiyorum ve
 
 ### Sayounara 
 Bu ifade günlük hayatta çok kullanılmaz. Uzun ayrılıklar için kullanılır. Örneğin biri uzak bir yere taşındığında, okuldan mezun olurken, bir işten ayrılırken gibi. Günlük hayatta kullanılan ifadeler ise:
-**Jaa ne** arkadaşlar arasında kullanılır
-**Mata ne** sonra görüşürüz demektir. Sondaki kelimeyi değiştirebiliriz. **Mata Ashita** yarın görüşürüz,  **Mata Raishu** kelimesi haftaya görüşürüz, **Mata Kondo** bir dahaki sefere görüşürüz anlamına gelir.
++ **Jaa ne** arkadaşlar arasında kullanılır
++ **Mata ne** sonra görüşürüz demektir. Sondaki kelimeyi değiştirebiliriz. **Mata Ashita** yarın görüşürüz,  **Mata Raishu** kelimesi haftaya görüşürüz, **Mata Kondo** bir dahaki sefere görüşürüz anlamına gelir.
 
 ### Yemek Yemek
 Yemekten önce ve sonra kullanılan saygı ifadeleri vardır.  Yemeği hazırlayan kişiye, sebzeleri yetiştiren çiftçiye, hayvanlara ve doğaya duyulan minnettarlığı ifade eder. **Itadakimasu** yemek yemeden önce söylenir ve yemeğin değerini gösterir. **Gochisousama (Deshita)** ise yemekten sonra söylenir ve yemeğin tadını çıkardığını gösterir.
