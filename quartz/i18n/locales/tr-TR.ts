@@ -54,7 +54,7 @@ export default {
       title: "İçindekiler",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} okuma süresi`,
+      readingTime: ({ minutes }) => `${minutes} dakika okuma süresi`,
     },
   },
   pages: {
